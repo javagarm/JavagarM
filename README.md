@@ -1,11 +1,15 @@
+# Hi I'm Javagar 👋
 
-<h2 align="left">Hi there I'm Javagar👋</h2>
-<h3>Reach me @ </h3>
- [![Linkedin Badge](https://img.shields.io/badge/-javagarm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javagarm/)](https://www.linkedin.com/in/javagarm/)
+Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-javagarm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javagarm/)](https://www.linkedin.com/in/javagarm/)
+[![kaggle Badge](https://img.shields.io/badge/-javagarm-white?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/in/javagarm/)](https://www.kaggle.com/in/javagarm/)
+[![Twitter Badge](https://img.shields.io/badge/-@javagar_m-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/javagar_m)](https://twitter.com/javagar_m)
+
 
 <!--
 **javagarm/JavagarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+(https://www.linkedin.com/in/javagarm/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
