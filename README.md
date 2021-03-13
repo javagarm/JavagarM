@@ -6,11 +6,11 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
 [![Linkedin Badge](https://img.shields.io/badge/-javagarm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javagarm/)](https://www.linkedin.com/in/javagarm/)
 [![kaggle Badge](https://img.shields.io/badge/-javagarm-white?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/javagarm/)](https://www.kaggle.com/javagarm/)
 [![Twitter Badge](https://img.shields.io/badge/-@javagar_m-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/javagar_m)](https://twitter.com/javagar_m)
-
+[![Hackerrank Badge](https://img.shields.io/badge/-javagarm-2EC866?style=flat&labelfor-the-badge&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/javagarm/)](https://www.hackerrank.com/javagarm/)
 
 <!--
 **javagarm/JavagarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(https://www.linkedin.com/in/javagarm/)
+(https://www.linkedin.com/in/javagarm/)2EC866
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
