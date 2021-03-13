@@ -1,6 +1,7 @@
 
 <h2 align="left">Hi there I'm Javagar👋</h2>
-<h2> [![Linkedin Badge](https://img.shields.io/badge/-javagarm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javagarm/)](https://www.linkedin.com/in/javagarm/) </h2>
+<h3>Reach me @ </h3>
+ [![Linkedin Badge](https://img.shields.io/badge/-javagarm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javagarm/)](https://www.linkedin.com/in/javagarm/)
 
 <!--
 **javagarm/JavagarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
