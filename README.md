@@ -1,5 +1,5 @@
 # Hi I'm Javagar 👋
-#### Currently Working towards Master's Degree
+#### - 🔭 Currently Working towards Master's Degree
 Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
 
 ### Connect me with
