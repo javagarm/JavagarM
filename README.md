@@ -19,6 +19,10 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
 [![Twitter Badge](https://img.shields.io/badge/-@javagar_m-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/javagar_m)](https://twitter.com/javagar_m)
 [![Hackerrank Badge](https://img.shields.io/badge/-javagarm-2EC866?style=flat&labelfor-the-badge&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/javagarm/)](https://www.hackerrank.com/javagarm/)
 
+
+ [![Stats](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/javagarm/JavagarM/blob/main/assets/saved.gif" width="195">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 <!--
 **javagarm/JavagarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 (https://www.linkedin.com/in/javagarm/)2EC866
