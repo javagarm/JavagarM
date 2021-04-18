@@ -5,7 +5,7 @@
   - 🌱 I’m currently learning Machine Learning and AI
   - 💬 Ask me about Data..
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: I don't understand Myself
+  - ⚡ Fun fact: Juz..Now I'm trying 2.. understand Myself
 
 
 Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
