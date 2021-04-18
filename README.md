@@ -1,4 +1,4 @@
-  ### Hello World!  <img src="https://github.com/javagarm/javagarm/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px">
   [![Visits Badge](https://badges.pufler.dev/visits/javagarm/javagarm)](https://badges.pufler.dev/visits/javagarm/javagarm)
 #### - 🔭 Currently Working towards Master's Degree
 
