@@ -1,4 +1,4 @@
-  ### Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px">
+  ## Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px"> <h1>I'm &nbsp;&nbsp;JAVAGAR</h1>
   [![Visits Badge](https://badges.pufler.dev/visits/javagarm/javagarm)](https://badges.pufler.dev/visits/javagarm/javagarm)
   
  <img src="https://github.com/javagarm/JavagarM/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
