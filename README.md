@@ -23,6 +23,12 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
  [![Stats](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/javagarm/JavagarM/blob/main/assets/saved.gif" width="195">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=javagarm&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=javagarm&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javagarm&show_icons=true&locale=en&layout=compact" alt="javagarm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javagarm&" alt="javagarm" /></p>
+
+
 <!--
 **javagarm/JavagarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 (https://www.linkedin.com/in/javagarm/)2EC866
