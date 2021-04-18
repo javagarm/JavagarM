@@ -18,7 +18,7 @@ class Runner
     github_token:,
     issue_number:,
     issue_title:,
-    repository: "JessicaLim8/JessicaLim8",
+    repository: "javagarm/JavagarM",
     user:,
     development: false
   )
