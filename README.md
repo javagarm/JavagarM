@@ -1,7 +1,10 @@
   ### Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px">
   [![Visits Badge](https://badges.pufler.dev/visits/javagarm/javagarm)](https://badges.pufler.dev/visits/javagarm/javagarm)
+  
+ <img src="https://github.com/javagarm/JavagarM/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+ <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
+ 
 #### - 🔭 Currently Working towards Master's Degree
-
   - 🌱 I’m currently learning Machine Learning and AI
   - 💬 Ask me about Data..
   - 😄 Pronouns: He / Him
