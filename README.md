@@ -1,5 +1,16 @@
-# Hi I'm Javagar 👋
+  ## Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px"> <h1>I'm &nbsp;&nbsp;JAVAGAR</h1>
+  [![Visits Badge](https://badges.pufler.dev/visits/javagarm/javagarm)](https://badges.pufler.dev/visits/javagarm/javagarm)
+  
+ <img src="https://github.com/javagarm/JavagarM/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+ <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
+ 
 #### - 🔭 Currently Working towards Master's Degree
+  - 🌱 I’m currently learning Machine Learning and AI
+  - 💬 Ask me about Data..
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: Juz..Now I'm trying 2.. understand Myself
+
+
 Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
 
 ### Connect me with
