@@ -6,7 +6,7 @@
 
 #### - 🔭 Currently Working towards Master's Degree
   - 🌱 I’m currently learning Machine Learning and AI
-  - 💬 Ask me about Data..
+  - 💬 Ask me about Data...
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: Juz..Now I'm trying 2.. understand Myself
 
