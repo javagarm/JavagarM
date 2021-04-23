@@ -41,7 +41,8 @@ class ReadmeGenerator
   - 💬 Ask me about Data..
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: Juz..Now I'm trying 2.. understand Myself
-Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
+
+     Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
 ### Connect me with
 [![Linkedin Badge](https://img.shields.io/badge/-javagarm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javagarm/)](https://www.linkedin.com/in/javagarm/)
 [![kaggle Badge](https://img.shields.io/badge/-javagarm-white?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/javagarm/)](https://www.kaggle.com/javagarm/)
