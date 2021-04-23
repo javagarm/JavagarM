@@ -26,7 +26,7 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
   
  <h1> Join the Community Word Cloud :cloud: :pencil2:</h1>
 
- ![](https://img.shields.io/badge/Words%20Added-20-brightgreen?labelColor=7D898B)
+ ![](https://img.shields.io/badge/Words%20Added-21-brightgreen?labelColor=7D898B)
  ![](https://img.shields.io/badge/Word%20Clouds%20Created-5-48D6FF?labelColor=7D898B)
  ![](https://img.shields.io/badge/Total%20Participants-2-AC6EFF?labelColor=7D898B)
 
@@ -36,13 +36,13 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
 
  :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/javagarm/JavagarM/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
-      <div align="center">
+     
 
         ## What are you looking forward to in 2021? :tada: :sunglasses: :confetti_ball:
 
         <img src="https://raw.githubusercontent.com/javagarm/JavagarM/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-8-informational?labelColor=7D898B)
+        ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-9-informational?labelColor=7D898B)
         ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-2-blueviolet?labelColor=7D898B)
 
 
