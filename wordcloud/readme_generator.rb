@@ -41,28 +41,18 @@ class ReadmeGenerator
   - 💬 Ask me about Data...
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: Juz..Now I'm trying 2.. understand Myself
-
-
 Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
-
- Connect me with
+Connect me with
 [![Linkedin Badge](https://img.shields.io/badge/-javagarm-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javagarm/)](https://www.linkedin.com/in/javagarm/)
 [![kaggle Badge](https://img.shields.io/badge/-javagarm-white?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/javagarm/)](https://www.kaggle.com/javagarm/)
 [![Twitter Badge](https://img.shields.io/badge/-@javagar_m-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/javagar_m)](https://twitter.com/javagar_m)
 [![Hackerrank Badge](https://img.shields.io/badge/-javagarm-2EC866?style=flat&labelfor-the-badge&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/javagarm/)](https://www.hackerrank.com/javagarm/)
-
-
- [![Stats](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/javagarm/JavagarM/blob/main/assets/saved.gif" width="195">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=javagarm&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=javagarm&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javagarm&show_icons=true&locale=en&layout=compact" alt="javagarm" /></p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=javagarm&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/javagarm/JavagarM/blob/main/assets/saved.gif" width="195">
+[![trophy](https://github-profile-trophy.vercel.app/?username=javagarm&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=javagarm&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javagarm&show_icons=true&locale=en&layout=compact" alt="javagarm" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javagarm&" alt="javagarm" /></p>
-
-
-      Join the Community Word Cloud :cloud: :pencil2:
-
-      ![](https://img.shields.io/badge/Words%20Added-#{total_words_added}-brightgreen?labelColor=7D898B)
+ Join the Community Word Cloud :cloud: :pencil2:
+ ![](https://img.shields.io/badge/Words%20Added-#{total_words_added}-brightgreen?labelColor=7D898B)
       ![](https://img.shields.io/badge/Word%20Clouds%20Created-#{total_clouds}-48D6FF?labelColor=7D898B)
       ![](https://img.shields.io/badge/Total%20Participants-#{participants.size}-AC6EFF?labelColor=7D898B)
 
