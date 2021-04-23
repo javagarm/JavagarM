@@ -60,8 +60,6 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javagarm&show_icons=true&locale=en&layout=compact" alt="javagarm" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javagarm&" alt="javagarm" /></p>
 
-      Welcome to my profile! I'm a student interning @Microsoft, an aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
-
 
        Join the Community Word Cloud :cloud: :pencil2:
 
