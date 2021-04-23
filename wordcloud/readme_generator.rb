@@ -68,7 +68,7 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
 
  :star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/javagarm/JavagarM/issues/new?template=shufflecloud.md&title=wordcloud%7C#{SHUFFLECLOUD}) :game_die:
 
-      <div align="center">
+     
 
         ## #{CloudTypes::CLOUDPROMPTS.last}
 
