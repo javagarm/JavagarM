@@ -30,7 +30,8 @@ class ReadmeGenerator
     end
 
     markdown = <<~HTML
-     Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px"> <h1>I'm &nbsp;&nbsp;JAVAGAR</h1>
+   <h1>Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px"></h1>
+   <h1>I'm &nbsp;&nbsp;JAVAGAR</h1>
   [![Visits Badge](https://badges.pufler.dev/visits/javagarm/javagarm)](https://badges.pufler.dev/visits/javagarm/javagarm)
 
  <img src="https://github.com/javagarm/JavagarM/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -59,32 +60,16 @@ Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?st
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javagarm&show_icons=true&locale=en&layout=compact" alt="javagarm" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javagarm&" alt="javagarm" /></p>
 
-
-
-<!--
-**javagarm/JavagarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(https://www.linkedin.com/in/javagarm/)2EC866
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
       Welcome to my profile! I'm a student interning @Microsoft, an aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
 
 
-      ## Join the Community Word Cloud :cloud: :pencil2:
+       Join the Community Word Cloud :cloud: :pencil2:
 
       ![](https://img.shields.io/badge/Words%20Added-#{total_words_added}-brightgreen?labelColor=7D898B)
       ![](https://img.shields.io/badge/Word%20Clouds%20Created-#{total_clouds}-48D6FF?labelColor=7D898B)
       ![](https://img.shields.io/badge/Total%20Participants-#{participants.size}-AC6EFF?labelColor=7D898B)
 
-      ### :thought_balloon: [Add a word](https://github.com/javagarm/JavagarM/issues/new?template=addword.md&title=wordcloud%7C#{ADDWORD}%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
+       :thought_balloon: [Add a word](https://github.com/javagarm/JavagarM/issues/new?template=addword.md&title=wordcloud%7C#{ADDWORD}%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
 
       A new word cloud will be automatically generated when you [add your own word](https://github.com/javagarm/JavagarM/issues/new?template=addword.md&title=wordcloud%7C#{ADDWORD}%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
 
