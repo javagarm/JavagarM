@@ -29,7 +29,7 @@ class ReadmeGenerator
       end
     end
 
-    markdown = <<~HTML
+    
    <h1>Hello World!<img src="https://github.com/javagarm/JavagarM/blob/main/assets/Hi.gif" width="29px"></h1><h1>I'm &nbsp;&nbsp;JAVAGAR</h1>
 [![Visits Badge](https://badges.pufler.dev/visits/javagarm/javagarm)](https://badges.pufler.dev/visits/javagarm/javagarm)
 
@@ -64,7 +64,7 @@ Connect me with
 
       <div align="center">
 
-        ## #{CloudTypes::CLOUDPROMPTS.last}
+        {CloudTypes::CLOUDPROMPTS.last}
 
         <img src="#{WORD_CLOUD_URL}" alt="WordCloud" width="100%">
 
@@ -72,9 +72,7 @@ Connect me with
         ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-#{current_contributors.size}-blueviolet?labelColor=7D898B)
 
 
-    HTML
-
-    # TODO: [![Github Badge](https://img.shields.io/badge/-@username-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/username)](https://github.com/username)
+     TODO: [![Github Badge](https://img.shields.io/badge/-@username-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/username)](https://github.com/username)
 
     current_contributors.each do |username, count|
       markdown.concat("[![Github Badge](https://img.shields.io/badge/-@#{format_username(username)}-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/#{username})](https://github.com/#{username}) ")
