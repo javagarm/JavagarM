@@ -5,10 +5,10 @@
  <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
 
 #### - 🔭 Currently Working towards Master's Degree
-  - 🌱 I’m currently learning Machine Learning and AI
+  - 🌱 I’m currently learning Computer Vision and AI
   - 💬 Ask me about Data...
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: Juz..Now I'm trying 2.. understand Myself
+  - ⚡ Fun fact: Juz..Now I'm Exploring.. Myself
 
 
 Reach me @ [![Gmail Badge](https://img.shields.io/badge/-javagarjava01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:javagarjava01@gmail.com)](mailto:javagarjava01@gmail.com)
