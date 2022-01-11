@@ -56,7 +56,7 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
 <div align="center">
 
-  ## What are you looking forward to in 2021? :tada: :sunglasses: :confetti_ball:
+  ## What are you looking forward to in 2022? :tada: :sunglasses: :confetti_ball:
 
   <img src="https://raw.githubusercontent.com/javagarm/JavagarM/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
