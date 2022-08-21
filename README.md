@@ -5,7 +5,7 @@
  <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/>
 
 #### - 🔭 Currently Working towards Master's Degree
-  - 🌱 I’m currently learning Computer Vision and AI
+  - 🌱 
   - 💬 Ask me about Data...
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: Juz..Now I'm Exploring.. Myself
